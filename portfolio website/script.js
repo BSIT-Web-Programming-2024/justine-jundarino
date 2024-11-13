@@ -13,6 +13,7 @@ const texts = [
     "DEVELOPER",
     "PROGRAMMER",
     "DESIGNER"
+    "WEB DEVELOPER NA POGI"
 ]
 
 let speed = 100;
